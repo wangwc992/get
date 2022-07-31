@@ -11,5 +11,6 @@ public class FastTest {
     public static void main(String[] args) {
         System.out.println("hello hot-fix");
         System.out.println("hello hot-fixTest1");
+        System.out.println("重新添加");
     }
 }
