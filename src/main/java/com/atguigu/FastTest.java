@@ -9,10 +9,6 @@ import sun.applet.Main;
  */
 public class FastTest {
     public static void main(String[] args) {
-        System.out.println("args = " + args);
-        System.out.println("args = " + args);
-        System.out.println("args = " + args);
-        System.out.println("args = " + args);
-        System.out.println("args = " + args);
+        System.out.println("hello hot-fix");
     }
 }
