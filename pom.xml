@@ -11,7 +11,10 @@
 
     <artifactId>get</artifactId>
     <dependencies>
-
+        <dependency>
+            <groupId></groupId>
+            <artifactId></artifactId>
+        </dependency>
     </dependencies>
 
 </project>
